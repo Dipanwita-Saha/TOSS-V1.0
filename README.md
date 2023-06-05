@@ -84,7 +84,7 @@ Thank you everyone.
    Admin ~
 
            1. Profile                      ~ User's profile is shown here. Every user can edit profile, change password and update profile pictutre.
-	   2. Manage Officer               ~ Admin can add and view officer here. Also, update officer, ban officer and delete officer option is given for all officers.
+	       2. Manage Officer               ~ Admin can add and view officer here. Also, update officer, ban officer and delete officer option is given for all officers.
            3. Monitoring                   ~ Track activities all actions, view and search all user, transaction, bank, case, vli details. An extra feature is given to Admin that export any data.
            4. Manage Reports               ~ All pending and closed reports are shown here.
            5. Log History                  ~ Admin's all log in and log out history is given here.
@@ -93,7 +93,7 @@ Thank you everyone.
    Officer ~
       
            1. Profile                      ~ User's profile is shown here. Every user can edit profile, change password and update profile pictutre.
-	   2. Manage Officer               ~ Officer can add and view cops here. Also, update cops and delete cops option is given for all cops.
+	       2. Manage Officer               ~ Officer can add and view cops here. Also, update cops and delete cops option is given for all cops.
            3. Manage Vli                   ~ Officer can register and view vli here. Also, update vli and delete vli option is given for all vlis.
            4. Account                      ~ Withdraw money from account and view all transactions.
            5. View All                     ~ View and search Officer, Owner, Cops, case and vli details. An extra feature is to export any data.
@@ -104,7 +104,7 @@ Thank you everyone.
    Cops ~
            
            1. Profile                      ~ User's profile is shown here. Every user can edit profile, change password and update profile pictutre.
-	   2. Manage Cases                 ~ Cops can add and view cops here. Also, update case and delete case option is given for all cops.
+	       2. Manage Cases                 ~ Cops can add and view cops here. Also, update case and delete case option is given for all cops.
            3. View All                     ~ View and search Officer, Owner, Cops, case and vli details. An extra feature is to export any data.
            4. Report                       ~ Report any problem to Admin.
            5. Log History                  ~ Cops's all log in and log out history is given here.
@@ -113,8 +113,8 @@ Thank you everyone.
    Owner ~
            
            1. Profile                      ~ User's profile is shown here. Every user can edit profile, change password and update profile pictutre.
-	   2. Apply Vli                    ~ Apply to register your car's vehicle license no. 
-	   3. Cases                        ~ Owner can see the filed cases and previous cases against him/ her.
+	       2. Apply Vli                    ~ Apply to register your car's vehicle license no. 
+	       3. Cases                        ~ Owner can see the filed cases and previous cases against him/ her.
            4. Account                      ~ Deposit, Withdraw or Send money is possible from here and owner can view all transactions.
            5. View All                     ~ View and search Officer, Owner, Cops details.
            6. Report                       ~ Report any problem to Admin.
@@ -151,7 +151,7 @@ Now a days we can see there are a lot of vehicles continuously running on the ro
 	    Github	: https://github.com/DEV-NKP
 	    
 	 2. Dipanwita Saha
-            Email	: dipanwitasaha7009@gmail.com
+        Email    	: dipanwitasaha7009@gmail.com
 	    LinkedIn	: https://www.linkedin.com/in/dipanwita-saha-a772aa215/
 	    Github	: https://github.com/Dipanwita-Saha
 	    
@@ -161,7 +161,7 @@ Now a days we can see there are a lot of vehicles continuously running on the ro
 	    Github	: https://github.com/Kaushik-Biswas
          
 	 4. Fahim Hasan Nilay
-            Email	: 
+        Email   	: 
 	    LinkedIn	: https://www.linkedin.com/in/fahim-n-28809b113/
 	    Github	: https://github.com/Fahim-Nilay
 
@@ -170,7 +170,7 @@ Now a days we can see there are a lot of vehicles continuously running on the ro
 | Project Highlights |
 ----------------------
 
-> TOSS's home page is excellently organized and provides a succinct summary of the company.
+> TOSS's home page is excellently organized and provides a succinct summary of the system.
 ![LANDING_PAGE!](README_IMAGE/landing_page.png)
 
 > Please fill out this sign up form if you are a vehicle owner.
